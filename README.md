@@ -1,3 +1,3 @@
-# hugo-mlm-manual
+# manual
 
-MLM 操作手冊（Hugo)
+操作手冊（Hugo)
