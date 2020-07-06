@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on MLM操作手冊</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on MLM操作手冊</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MLM Manual / English</title>
+      <link>/mlm-manual-/-english/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mlm-manual-/-english/</guid>
+      <description>Login page MLM/Operating Process/login Page Home Page OverView Show currently logged in users 1. user name 2. credits 3. Available Balance 4. Currency 5. status：Current status of this account 6. grade 7. Substation Type 8. Wallet Recovery type 9. Last Login 10. last loginIP FunctionBar 1. SubstationManage 2. AgentManage 3. MemberManage 4. Report 5. OrderManage 6. AccountSet</description>
+    </item>
+    
+    <item>
+      <title>MLM Manual | English</title>
+      <link>/mlm-manual-english/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mlm-manual-english/</guid>
+      <description>Login page MLM/Operating Process/login Page Home Page OverView Show currently logged in users 1. user name 2. credits 3. Available Balance 4. Currency 5. status：Current status of this account 6. grade 7. Substation Type 8. Wallet Recovery type 9. Last Login 10. last loginIP
+FunctionBar 1. SubstationManage 2. AgentManage 3. MemberManage 4. Report 5. OrderManage 6. AccountSet * tip : Click the button in the red box to close the function bar, the screen will be simpler and clearer.</description>
+    </item>
+    
+    <item>
+      <title>MLM操作手冊 / 简中</title>
+      <link>/mlm%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8A-/-%E7%AE%80%E4%B8%AD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mlm%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8A-/-%E7%AE%80%E4%B8%AD/</guid>
+      <description>登入页面 MLM/操作流程/首页画面 首页/总览 会显示目前登入的使用者 1. 用户名称 2. 信用额度 3. 可用余额 4. 币别 5. 状态：该帐号目前状态 6. 等级 7. 子站种类</description>
+    </item>
+    
+    <item>
+      <title>MLM操作手冊 / 繁中</title>
+      <link>/mlm%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8A-/-%E7%B9%81%E4%B8%AD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mlm%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8A-/-%E7%B9%81%E4%B8%AD/</guid>
+      <description>登入頁面 MLM/操作流程/首頁畫面 首頁/總覽 會顯示目前登入的使用者 1. 用戶名稱 2. 信用額度 3. 可用餘額 4. 幣別 5. 狀態：該帳號目前狀態 6. 等級 7. 子站種類</description>
+    </item>
+    
+    <item>
+      <title>MLM操作手冊 | 繁中</title>
+      <link>/mlm%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8A-%E7%B9%81%E4%B8%AD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mlm%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8A-%E7%B9%81%E4%B8%AD/</guid>
+      <description>登入頁面 MLM/操作流程/首頁畫面 首頁 總覽 會顯示目前登入的使用者 1. 用戶名稱 2. 信用額度 3. 可用餘額 4. 幣別 5. 狀態：該帳號目前狀態 6. 等級 7. 子站種類 8.</description>
+    </item>
+    
+    <item>
+      <title>MLM操作手册 | 简中</title>
+      <link>/mlm%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C-%E7%AE%80%E4%B8%AD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mlm%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C-%E7%AE%80%E4%B8%AD/</guid>
+      <description>登入页面 MLM/操作流程/首页画面 首页 总览 会显示目前登入的使用者 1. 用户名称 2. 信用额度 3. 可用余额 4. 币别 5. 状态：该帐号目前状态 6. 等级 7. 子站种类 8.</description>
+    </item>
+    
+  </channel>
+</rss>

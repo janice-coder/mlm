@@ -1,0 +1,35 @@
+baseURL = "/"
+languageCode = "zh-TW"
+title = "MLM操作手冊"
+hasCJKLanguage = true
+
+# Theme to use
+theme = "hugo-bootstrap"
+
+[params]
+  # Souce Code repository section
+  description = ""
+  github_repository = ""
+  chapter = ""
+
+  [params.sidebar]
+  # isBk = true
+  # Whether to show the recent posts or not (default: true)
+  # showRecent = false
+
+  # Whether to show the taxonomies or not (default: true)
+  # showTaxonomy = true
+
+  # How many posts to show on the sidebar (Default: 5)
+  # num_recent_posts = 5
+[permalinks]
+  post = "/:title/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+
+
+
+
